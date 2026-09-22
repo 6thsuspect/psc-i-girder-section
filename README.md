@@ -1,6 +1,6 @@
 # PSC-I Girder Mid-Section
 
-A React + TypeScript + Electron + Tailwind CSS + Vite studio for drawing the **mid-span cross-section** of a prestressed concrete I-girder. (`define_girder_points`), rendered as an interactive SVG engineering sheet instead of driving AutoCAD.
+A React + TypeScript + Electron + Tailwind CSS + Vite studio for drawing the **cross-section** of a prestressed concrete I-girder. Rendered as an interactive SVG engineering sheet instead of driving AutoCAD.
 
 ## What it does
 
